@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  cosigned:
+  - apiVersion: v2
+    appVersion: dev
+    created: "2021-08-26T16:39:26.521895225Z"
+    description: The Helm chart for Cosigned
+    digest: bc2c922e28a08fff55c082c388f54444405e25aec4003bd72c5414e4af82d038
+    home: https://github.com/sigstore/cosign
+    maintainers:
+    - name: dlorenc
+    - name: hectorj2f
+    name: cosigned
+    sources:
+    - https://github.com/sigstore/cosign
+    type: application
+    urls:
+    - https://github.com/sigstore/cosign/releases/download/cosigned-v0.0.1-dev/cosigned-v0.0.1-dev.tgz
+    version: v0.0.1-dev
+generated: "2021-08-26T16:39:26.521902926Z"
