@@ -12,4 +12,4 @@ $ helm repo add sigstore https://sigstore.github.io/cosign/
 
 ### cosigned
 
-For installation and upgrading instructions see [Cosigned chart readme](TBD).
+For installation and upgrading instructions see [Cosigned chart readme](https://github.com/sigstore/cosign/blob/main/chart/cosigned/README.md).
