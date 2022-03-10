@@ -30,7 +30,7 @@ require (
 	github.com/sigstore/sigstore v1.1.1-0.20220130134424-bae9b66b8442
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/viper v1.10.1
-	github.com/spiffe/go-spiffe/v2 v2.0.0-beta.11
+	github.com/spiffe/go-spiffe/v2 v2.0.0-beta.12
 	github.com/stretchr/testify v1.7.0
 	github.com/theupdateframework/go-tuf v0.0.0-20220124194755-2c5d73bebc1c
 	github.com/xanzy/go-gitlab v0.54.4
