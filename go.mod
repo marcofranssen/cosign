@@ -39,7 +39,7 @@ require (
 	github.com/xanzy/go-gitlab v0.73.1
 	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
-	golang.org/x/sync v0.0.0-20220929204114-8fcdb60fdcc0
+	golang.org/x/sync v0.5.0
 	golang.org/x/term v0.0.0-20220919170432-7a66f970e087
 	google.golang.org/api v0.98.0
 	k8s.io/api v0.23.5
